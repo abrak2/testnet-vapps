@@ -1,9 +1,11 @@
 # vApp Submission: Decentralized KYC Vault
 
 ## Verification
-github_username: "abrak2"
+```yaml
+github_username: "abrak_"
 discord_id: "994625305111183503"
 timestamp: "2025-08-30"
+```
 
 ## Developer
 - Name: abrak
